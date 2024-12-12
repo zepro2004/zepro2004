@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Java, Web Development and Mobile Development
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zepro2004)](https://git.io/streak-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepro2004)](https://github.com/anuraghazra/github-readme-stats)
