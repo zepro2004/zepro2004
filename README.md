@@ -2,9 +2,9 @@
 
 ---
 
-A computer programming student at Algonquin College.
+A computer programming student 📘 at Algonquin College.
 
-I mainly focus on Java, SQL, Front-end (HTML, CSS, JS, React) and some back-end (mostly PHP). I'm available to work on any project which use these languages.
+I mainly focus on Java, SQL, Front-end (HTML, CSS, JS, React) and some back-end (mostly PHP). I'm available to work on any project which use these languages 👨🏽‍💻.
 
 Currently, I'm working on a website for event management. It uses JS on the front-end and a PHP and MySQL back-end.
 
