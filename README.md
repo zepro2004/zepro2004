@@ -26,12 +26,22 @@ Currently, I'm working on a website for event management. It uses JS on the fron
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zepro2004&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepro2004&hide=html&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zepro2004&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zepro2004&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zepro2004&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
 
 - 🌱 I’m currently learning Java, Web Development and Mobile Development
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepro2004)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **zepro2004/zepro2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,4 +55,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
