@@ -1,5 +1,6 @@
 ## Hi there, I am Louis Bertrand Ntwali 👋
-
+---
+- 🌱 I’m currently learning Java, Web Development and Mobile Development
 ---
 
 A computer programming student at Algonquin College.
@@ -42,8 +43,6 @@ Currently, I'm working on a website for event management. It uses JS on the fron
 </a>
 
 ---
-
-- 🌱 I’m currently learning Java, Web Development and Mobile Development
 <!--
 **zepro2004/zepro2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
