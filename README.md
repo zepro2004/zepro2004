@@ -36,7 +36,7 @@ Currently, I'm working on a website for event management. It uses JS on the fron
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zepro2004&theme=radical&show_icons=true" />
 </a>
-<a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zepro2004&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
