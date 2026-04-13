@@ -8,7 +8,7 @@
 ---
 
 ### 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=go,java,rust,typescript,python,bash,nodejs,postgres,linux,docker,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,typescript,python,bash,nodejs,postgres,linux,docker,githubactions)](https://skillicons.dev)
 
 ---
 
